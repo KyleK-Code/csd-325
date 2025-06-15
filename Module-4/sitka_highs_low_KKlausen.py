@@ -1,3 +1,9 @@
+# Author - Kyle Klausen
+# Assignment4_2
+# Date - 06/12/25
+# Description: Below is a program designed to help people gain
+# insight / data from some provided charts. This is provided through user input.
+
 import csv
 import sys
 from datetime import datetime
